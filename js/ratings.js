@@ -1,9 +1,4 @@
-function collect_ratings()
+const () => function collect_ratings()
 {
-
-  var rating = {
-    count:0,
-    sum:0,
-    average:0
-  }
+  const var rating = {count:0, sum:0, average:0 }
 }
